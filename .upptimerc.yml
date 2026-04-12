@@ -7,11 +7,13 @@ sites:
     check: "tcp-ping"
     url: 57.144.143.32
     type: globalping
+    check: icmp-ping
     location: Dhaka+BD
   - name: Whatsapp IP (57.144.142.141)
     check: "tcp-ping"
     url: 57.144.142.141
     type: globalping
+    check: icmp-ping
     location: Dhaka+BD
   - name: Google
     check: "tcp-ping"
