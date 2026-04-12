@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "whatsapp-ip-57-144-143-32",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 467,
     "timeDay": 467,
     "timeWeek": 467,
     "timeMonth": 467,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2026-04-12": 30
+      "2026-04-12": 41
     }
   },
   {
@@ -25,19 +25,37 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "whatsapp-ip-57-144-142-141",
     "status": "down",
-    "uptime": "0.14%",
-    "uptimeDay": "0.14%",
-    "uptimeWeek": "0.14%",
-    "uptimeMonth": "0.14%",
-    "uptimeYear": "0.14%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-12": 30
+      "2026-04-12": 41
     }
+  },
+  {
+    "name": "Google",
+    "url": "google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "google",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 27,
+    "timeDay": 27,
+    "timeWeek": 27,
+    "timeMonth": 27,
+    "timeYear": 27,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IPv6 test",
