@@ -13,6 +13,11 @@ sites:
     type: globalping
     check: icmp-ping
     location: Dhaka+BD
+  - name: Cloudflare DNS
+    url: 1.1.1.1
+    type: globalping
+    check: icmp-ping
+    location: Dhaka+BD
   - name: Google
     check: "tcp-ping"
     url: google.com
