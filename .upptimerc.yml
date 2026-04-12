@@ -6,11 +6,16 @@ sites:
   - name: Whatsapp IP (57.144.143.32)
     url: 57.144.143.32
     type: globalping
-    location: Dhaka
+    location: Dhaka+BD
   - name: Whatsapp IP (57.144.142.141)
     url: 57.144.142.141
     type: globalping
-    location: Dhaka
+    location: Dhaka+BD
+  - name: Google
+    check: "tcp-ping"
+    url: google.com
+    type: globalping
+    location: Dhaka+BD
   - name: IPv6 test
     url: forwardemail.net
     port: 80
