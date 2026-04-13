@@ -6,19 +6,19 @@ sites:
   - name: Whatsapp IP (57.144.143.32)
     url: 57.144.143.32
     type: globalping
-    check: icmp-ping
+    check: "tcp-ping"
     port: 53
     location: Dhaka+BD
   - name: Whatsapp IP (57.144.142.141)
     url: 57.144.142.141
     type: globalping
-    check: icmp-ping
+    check: "icmp-ping"
     port: 53
     location: Dhaka+BD
   - name: Cloudflare DNS
     url: 1.1.1.1
     type: globalping
-    check: icmp-ping
+    check: "icmp-ping"
     location: Dhaka+BD
   - name: Google
     check: "tcp-ping"
