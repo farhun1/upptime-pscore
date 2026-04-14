@@ -1,22 +1,40 @@
 [
   {
+    "name": "Wikipedia",
+    "url": "wikipedia.org",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "wikipedia",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 239,
+    "timeDay": 239,
+    "timeWeek": 239,
+    "timeMonth": 239,
+    "timeYear": 239,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Google DNS 1",
     "url": "8.8.4.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-1",
     "status": "down",
-    "uptime": "33.98%",
-    "uptimeDay": "33.98%",
-    "uptimeWeek": "33.98%",
-    "uptimeMonth": "33.98%",
-    "uptimeYear": "33.98%",
+    "uptime": "26.22%",
+    "uptimeDay": "26.22%",
+    "uptimeWeek": "26.22%",
+    "uptimeMonth": "26.22%",
+    "uptimeYear": "26.22%",
     "time": 2,
     "timeDay": 2,
     "timeWeek": 2,
     "timeMonth": 2,
     "timeYear": 2,
     "dailyMinutesDown": {
-      "2026-04-14": 7
+      "2026-04-14": 10
     }
   },
   {
@@ -25,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-2",
     "status": "down",
-    "uptime": "34.33%",
-    "uptimeDay": "34.33%",
-    "uptimeWeek": "34.33%",
-    "uptimeMonth": "34.33%",
-    "uptimeYear": "34.33%",
+    "uptime": "26.48%",
+    "uptimeDay": "26.48%",
+    "uptimeWeek": "26.48%",
+    "uptimeMonth": "26.48%",
+    "uptimeYear": "26.48%",
     "time": 2,
     "timeDay": 2,
     "timeWeek": 2,
     "timeMonth": 2,
     "timeYear": 2,
     "dailyMinutesDown": {
-      "2026-04-14": 7
+      "2026-04-14": 10
     }
   },
   {
@@ -56,7 +74,7 @@
     "timeMonth": 467,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2026-04-14": 1090,
+      "2026-04-14": 1093,
       "2026-04-13": 1440,
       "2026-04-12": 395
     }
@@ -78,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1090,
+      "2026-04-14": 1093,
       "2026-04-13": 1440,
       "2026-04-12": 395
     }
@@ -100,7 +118,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1090,
+      "2026-04-14": 1093,
       "2026-04-13": 1440,
       "2026-04-12": 264
     }
@@ -116,11 +134,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 63,
-    "timeDay": 66,
-    "timeWeek": 63,
-    "timeMonth": 63,
-    "timeYear": 63,
+    "time": 64,
+    "timeDay": 67,
+    "timeWeek": 64,
+    "timeMonth": 64,
+    "timeYear": 64,
     "dailyMinutesDown": {}
   },
   {
