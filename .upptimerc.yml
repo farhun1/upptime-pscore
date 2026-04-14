@@ -23,7 +23,6 @@ sites:
     type: globalping
   - name: Whatsapp IP (57.144.143.32)
     url: 57.144.143.32
-    type: globalping
     check: "tcp-ping"
     port: 53
     location: Dhaka+BD
