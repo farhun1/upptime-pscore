@@ -16,7 +16,7 @@
     "timeMonth": 467,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2026-04-14": 1121,
+      "2026-04-14": 1122,
       "2026-04-13": 1440,
       "2026-04-12": 395
     }
@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/1.1.1.1.ico",
     "slug": "cloudflare-dns-dhaka",
     "status": "down",
-    "uptime": "4.95%",
-    "uptimeDay": "4.95%",
-    "uptimeWeek": "4.95%",
-    "uptimeMonth": "4.95%",
-    "uptimeYear": "4.95%",
+    "uptime": "2.99%",
+    "uptimeDay": "2.99%",
+    "uptimeWeek": "2.99%",
+    "uptimeMonth": "2.99%",
+    "uptimeYear": "2.99%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -83,11 +83,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-2",
     "status": "down",
-    "uptime": "8.58%",
-    "uptimeDay": "8.58%",
-    "uptimeWeek": "8.58%",
-    "uptimeMonth": "8.58%",
-    "uptimeYear": "8.58%",
+    "uptime": "8.54%",
+    "uptimeDay": "8.54%",
+    "uptimeWeek": "8.54%",
+    "uptimeMonth": "8.54%",
+    "uptimeYear": "8.54%",
     "time": 2,
     "timeDay": 2,
     "timeWeek": 2,
@@ -114,7 +114,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1121,
+      "2026-04-14": 1122,
       "2026-04-13": 1440,
       "2026-04-12": 395
     }
