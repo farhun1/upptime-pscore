@@ -10,7 +10,6 @@ sites:
     location: Dhaka
   - name: DNS Cloudflare
     url: 1.1.1.1
-    type: globalping
     check: icmp-ping
     location: Berlin
   - name: Google DNS 1
