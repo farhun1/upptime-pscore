@@ -3,6 +3,17 @@ owner: farhun1 # Your GitHub organization or username, where this repository liv
 repo: upptime-pscore # The name of this repository
 
 sites:
+  - name: Whatsapp IP (57.144.143.32)
+    url: http://57.144.143.32  # Added http:// to satisfy the parser
+    type: globalping
+    check: tcp-ping           # TCP is more reliable than ICMP for public IPs
+    port: 443                 # Port 443 is standard for web services
+    location: Dhaka           # Simplified location string
+  - name: Cloudflare DNS Dhaka
+    url: http://1.1.1.1
+    type: globalping
+    check: icmp-ping          # ICMP works for 1.1.1.1 because it's a DNS provider
+    location: Bangladesh      # Using country name is often more stable
   - name: Wikipedia
     url: wikipedia.org
     type: globalping
@@ -12,20 +23,11 @@ sites:
     url: 1.1.1.1
     check: icmp-ping
     location: Berlin
-  - name: Google DNS 1
-    url: 8.8.4.4
-    type: globalping
-    port: 53
   - name: Google DNS 2
     check: "tcp-ping"
     url: 8.8.8.8
     port: 53
     type: globalping
-  - name: Whatsapp IP (57.144.143.32)
-    url: 57.144.143.32
-    check: "tcp-ping"
-    port: 53
-    location: Dhaka+BD
   - name: Whatsapp IP (57.144.142.141)
     url: 57.144.142.141
     type: globalping
