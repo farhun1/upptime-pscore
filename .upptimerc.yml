@@ -4,15 +4,15 @@ repo: upptime-pscore # The name of this repository
 
 sites:
   - name: Google DNS 1
-    type: globalping
     check: "tcp-ping"
     url: 8.8.4.4
+    type: globalping
     port: 53
   - name: Google DNS 2
     check: "tcp-ping"
-    type: globalping
     url: 8.8.8.8
     port: 53
+    type: globalping
   - name: Whatsapp IP (57.144.143.32)
     url: 57.144.143.32
     type: globalping
