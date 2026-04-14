@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 213,
-    "timeWeek": 213,
-    "timeMonth": 213,
-    "timeYear": 213,
+    "time": 219,
+    "timeDay": 219,
+    "timeWeek": 219,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-1",
     "status": "down",
-    "uptime": "13.57%",
-    "uptimeDay": "13.57%",
-    "uptimeWeek": "13.57%",
-    "uptimeMonth": "13.57%",
-    "uptimeYear": "13.57%",
+    "uptime": "12.27%",
+    "uptimeDay": "12.27%",
+    "uptimeWeek": "12.27%",
+    "uptimeMonth": "12.27%",
+    "uptimeYear": "12.27%",
     "time": 2,
     "timeDay": 2,
     "timeWeek": 2,
     "timeMonth": 2,
     "timeYear": 2,
     "dailyMinutesDown": {
-      "2026-04-14": 23
+      "2026-04-14": 25
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-2",
     "status": "down",
-    "uptime": "13.72%",
-    "uptimeDay": "13.72%",
-    "uptimeWeek": "13.72%",
-    "uptimeMonth": "13.72%",
-    "uptimeYear": "13.72%",
+    "uptime": "12.46%",
+    "uptimeDay": "12.46%",
+    "uptimeWeek": "12.46%",
+    "uptimeMonth": "12.46%",
+    "uptimeYear": "12.46%",
     "time": 2,
     "timeDay": 2,
     "timeWeek": 2,
     "timeMonth": 2,
     "timeYear": 2,
     "dailyMinutesDown": {
-      "2026-04-14": 22
+      "2026-04-14": 25
     }
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 467,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2026-04-14": 1106,
+      "2026-04-14": 1108,
       "2026-04-13": 1440,
       "2026-04-12": 395
     }
@@ -114,7 +114,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1106,
+      "2026-04-14": 1108,
       "2026-04-13": 1440,
       "2026-04-12": 395
     }
@@ -136,7 +136,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1106,
+      "2026-04-14": 1109,
       "2026-04-13": 1440,
       "2026-04-12": 264
     }
@@ -153,7 +153,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 62,
-    "timeDay": 62,
+    "timeDay": 63,
     "timeWeek": 62,
     "timeMonth": 62,
     "timeYear": 62,
