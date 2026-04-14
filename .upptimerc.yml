@@ -8,6 +8,11 @@ sites:
     type: globalping
     check: icmp-ping
     location: Dhaka
+  - name: Wikipedia
+    url: 1.1.1.1
+    type: globalping
+    check: icmp-ping
+    location: Berlin
   - name: Google DNS 1
     url: 8.8.4.4
     type: globalping
