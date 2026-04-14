@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-cloudflare",
     "status": "up",
-    "uptime": "2.43%",
-    "uptimeDay": "2.43%",
-    "uptimeWeek": "2.43%",
-    "uptimeMonth": "2.43%",
-    "uptimeYear": "2.43%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 104,
     "timeDay": 104,
     "timeWeek": 104,
     "timeMonth": 104,
     "timeYear": 104,
-    "dailyMinutesDown": {
-      "2026-04-14": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google DNS 1",
@@ -43,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-1",
     "status": "down",
-    "uptime": "13.68%",
-    "uptimeDay": "13.68%",
-    "uptimeWeek": "13.68%",
-    "uptimeMonth": "13.68%",
-    "uptimeYear": "13.68%",
+    "uptime": "13.57%",
+    "uptimeDay": "13.57%",
+    "uptimeWeek": "13.57%",
+    "uptimeMonth": "13.57%",
+    "uptimeYear": "13.57%",
     "time": 2,
     "timeDay": 2,
     "timeWeek": 2,
     "timeMonth": 2,
     "timeYear": 2,
     "dailyMinutesDown": {
-      "2026-04-14": 22
+      "2026-04-14": 23
     }
   },
   {
@@ -63,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-2",
     "status": "down",
-    "uptime": "13.82%",
-    "uptimeDay": "13.82%",
-    "uptimeWeek": "13.82%",
-    "uptimeMonth": "13.82%",
-    "uptimeYear": "13.82%",
+    "uptime": "13.72%",
+    "uptimeDay": "13.72%",
+    "uptimeWeek": "13.72%",
+    "uptimeMonth": "13.72%",
+    "uptimeYear": "13.72%",
     "time": 2,
     "timeDay": 2,
     "timeWeek": 2,
