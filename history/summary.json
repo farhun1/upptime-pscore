@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-1",
     "status": "down",
-    "uptime": "91.02%",
-    "uptimeDay": "91.02%",
-    "uptimeWeek": "91.02%",
-    "uptimeMonth": "91.02%",
-    "uptimeYear": "91.02%",
+    "uptime": "43.79%",
+    "uptimeDay": "43.79%",
+    "uptimeWeek": "43.79%",
+    "uptimeMonth": "43.79%",
+    "uptimeYear": "43.79%",
     "time": 2,
     "timeDay": 2,
     "timeWeek": 2,
     "timeMonth": 2,
     "timeYear": 2,
     "dailyMinutesDown": {
-      "2026-04-14": 0
+      "2026-04-14": 5
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-2",
     "status": "down",
-    "uptime": "91.88%",
-    "uptimeDay": "91.88%",
-    "uptimeWeek": "91.88%",
-    "uptimeMonth": "91.88%",
-    "uptimeYear": "91.88%",
+    "uptime": "44.21%",
+    "uptimeDay": "44.21%",
+    "uptimeWeek": "44.21%",
+    "uptimeMonth": "44.21%",
+    "uptimeYear": "44.21%",
     "time": 2,
     "timeDay": 2,
     "timeWeek": 2,
     "timeMonth": 2,
     "timeYear": 2,
     "dailyMinutesDown": {
-      "2026-04-14": 0
+      "2026-04-14": 5
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 467,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2026-04-14": 1084,
+      "2026-04-14": 1088,
       "2026-04-13": 1440,
       "2026-04-12": 395
     }
@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1084,
+      "2026-04-14": 1088,
       "2026-04-13": 1440,
       "2026-04-12": 395
     }
@@ -100,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1084,
+      "2026-04-14": 1088,
       "2026-04-13": 1440,
       "2026-04-12": 264
     }
@@ -116,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 62,
+    "time": 63,
     "timeDay": 64,
-    "timeWeek": 62,
-    "timeMonth": 62,
-    "timeYear": 62,
+    "timeWeek": 63,
+    "timeMonth": 63,
+    "timeYear": 63,
     "dailyMinutesDown": {}
   },
   {
