@@ -4,36 +4,40 @@
     "url": "8.8.4.4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.08%",
+    "uptimeDay": "95.08%",
+    "uptimeWeek": "95.08%",
+    "uptimeMonth": "95.08%",
+    "uptimeYear": "95.08%",
     "time": 2,
     "timeDay": 2,
     "timeWeek": 2,
     "timeMonth": 2,
     "timeYear": 2,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-14": 0
+    }
   },
   {
     "name": "Google DNS 2",
     "url": "8.8.8.8",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.98%",
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "95.98%",
+    "uptimeMonth": "95.98%",
+    "uptimeYear": "95.98%",
     "time": 2,
     "timeDay": 2,
     "timeWeek": 2,
     "timeMonth": 2,
     "timeYear": 2,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-14": 0
+    }
   },
   {
     "name": "Whatsapp IP (57.144.143.32)",
@@ -52,7 +56,7 @@
     "timeMonth": 467,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2026-04-14": 1080,
+      "2026-04-14": 1083,
       "2026-04-13": 1440,
       "2026-04-12": 395
     }
@@ -74,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1080,
+      "2026-04-14": 1083,
       "2026-04-13": 1440,
       "2026-04-12": 395
     }
@@ -96,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1080,
+      "2026-04-14": 1083,
       "2026-04-13": 1440,
       "2026-04-12": 264
     }
@@ -112,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 61,
-    "timeDay": 61,
-    "timeWeek": 61,
-    "timeMonth": 61,
-    "timeYear": 61,
+    "time": 62,
+    "timeDay": 64,
+    "timeWeek": 62,
+    "timeMonth": 62,
+    "timeYear": 62,
     "dailyMinutesDown": {}
   },
   {
