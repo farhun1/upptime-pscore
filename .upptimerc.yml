@@ -4,7 +4,6 @@ repo: upptime-pscore # The name of this repository
 
 sites:
   - name: Google DNS 1
-    check: "tcp-ping"
     url: 8.8.4.4
     type: globalping
     port: 53
