@@ -4,18 +4,40 @@
     "url": "wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 239,
-    "timeWeek": 239,
-    "timeMonth": 239,
-    "timeYear": 239,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "96.39%",
+    "uptimeDay": "96.39%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "96.39%",
+    "uptimeYear": "96.39%",
+    "time": 232,
+    "timeDay": 232,
+    "timeWeek": 232,
+    "timeMonth": 232,
+    "timeYear": 232,
+    "dailyMinutesDown": {
+      "2026-04-14": 0
+    }
+  },
+  {
+    "name": "Wikipedia",
+    "url": "1.1.1.1",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "wikipedia",
+    "status": "down",
+    "uptime": "96.39%",
+    "uptimeDay": "96.39%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "96.39%",
+    "uptimeYear": "96.39%",
+    "time": 232,
+    "timeDay": 232,
+    "timeWeek": 232,
+    "timeMonth": 232,
+    "timeYear": 232,
+    "dailyMinutesDown": {
+      "2026-04-14": 0
+    }
   },
   {
     "name": "Google DNS 1",
@@ -23,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-1",
     "status": "down",
-    "uptime": "25.88%",
-    "uptimeDay": "25.88%",
-    "uptimeWeek": "25.88%",
-    "uptimeMonth": "25.88%",
-    "uptimeYear": "25.88%",
+    "uptime": "19.71%",
+    "uptimeDay": "19.71%",
+    "uptimeWeek": "19.71%",
+    "uptimeMonth": "19.71%",
+    "uptimeYear": "19.71%",
     "time": 2,
     "timeDay": 2,
     "timeWeek": 2,
     "timeMonth": 2,
     "timeYear": 2,
     "dailyMinutesDown": {
-      "2026-04-14": 10
+      "2026-04-14": 14
     }
   },
   {
@@ -43,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "google-dns-2",
     "status": "down",
-    "uptime": "26.25%",
-    "uptimeDay": "26.25%",
-    "uptimeWeek": "26.25%",
-    "uptimeMonth": "26.25%",
-    "uptimeYear": "26.25%",
+    "uptime": "19.99%",
+    "uptimeDay": "19.99%",
+    "uptimeWeek": "19.99%",
+    "uptimeMonth": "19.99%",
+    "uptimeYear": "19.99%",
     "time": 2,
     "timeDay": 2,
     "timeWeek": 2,
     "timeMonth": 2,
     "timeYear": 2,
     "dailyMinutesDown": {
-      "2026-04-14": 10
+      "2026-04-14": 14
     }
   },
   {
@@ -74,7 +96,7 @@
     "timeMonth": 467,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2026-04-14": 1093,
+      "2026-04-14": 1098,
       "2026-04-13": 1440,
       "2026-04-12": 395
     }
@@ -96,7 +118,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1093,
+      "2026-04-14": 1098,
       "2026-04-13": 1440,
       "2026-04-12": 395
     }
@@ -118,7 +140,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-14": 1093,
+      "2026-04-14": 1098,
       "2026-04-13": 1440,
       "2026-04-12": 264
     }
