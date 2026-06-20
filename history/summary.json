@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2026-06-19": 222,
+      "2026-06-20": 166,
+      "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
@@ -104,7 +105,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-19": 222,
+      "2026-06-20": 166,
+      "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
@@ -179,15 +181,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 277,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 197,
+    "timeMonth": 200,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2026-04-17": 139
@@ -207,7 +209,7 @@
     "time": 143,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 107,
+    "timeMonth": 113,
     "timeYear": 143,
     "dailyMinutesDown": {}
   },
@@ -228,7 +230,8 @@
     "timeMonth": 0,
     "timeYear": 2,
     "dailyMinutesDown": {
-      "2026-06-19": 222,
+      "2026-06-20": 166,
+      "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
@@ -314,7 +317,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-19": 222,
+      "2026-06-20": 166,
+      "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
@@ -402,7 +406,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-19": 222,
+      "2026-06-20": 166,
+      "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
@@ -487,7 +492,7 @@
     "time": 49,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 45,
+    "timeMonth": 47,
     "timeYear": 49,
     "dailyMinutesDown": {
       "2026-04-17": 199
